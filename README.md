@@ -1,4 +1,4 @@
-# Chronological-Learning-
+# Chronological-Learning
 Article Recommendation
 This repository contains the experimental dataset and codes for the paper pdf extraction tool comparison
 
